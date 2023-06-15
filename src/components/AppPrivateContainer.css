@@ -1,0 +1,8 @@
+.app-private-container {
+  display: grid;
+  place-content: center;
+
+  background-color: darkcyan;
+
+  height: 100dvh;
+}

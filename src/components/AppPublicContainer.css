@@ -1,0 +1,10 @@
+.app-public-container {
+  display: grid;
+  place-content: center;
+  justify-items: end;
+  gap: 15px;
+
+  height: 100dvh;
+
+  background-color: #4cae4f;
+}

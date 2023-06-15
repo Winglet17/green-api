@@ -1,0 +1,11 @@
+.app-button {
+  border: none;
+  border-radius: 5px;
+
+  background-color: white;
+  padding: 5px 10px;
+
+  font-size: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
